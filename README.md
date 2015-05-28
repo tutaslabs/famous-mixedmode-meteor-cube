@@ -12,4 +12,4 @@ Enjoy!
 
 A tutorial is at http://www.tutas-labs.com/famous-mixed-mode-and-meteor-integration/
 
-Where I show how the famo.us engein was built.
+Where I show how the famo.us engine was built.
