@@ -1,8 +1,5 @@
 Template.main.rendered = ->
 
-
-
-
   scene = Famous.Engine.createScene()
 
 # our top level node

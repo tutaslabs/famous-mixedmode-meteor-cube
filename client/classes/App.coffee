@@ -1,5 +1,4 @@
 Meteor.startup  ->
-
   class App.app extends Famous.Node
     constructor: (@options) ->
       super @options
