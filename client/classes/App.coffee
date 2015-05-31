@@ -55,7 +55,7 @@ Meteor.startup  ->
 
       @clock.setInterval =>
           time = @clock.getTime()
-          console.log time
+
 
           @m.setRotation 0,(time/2000),0
       ,20

@@ -1,11 +1,9 @@
 Template.main.rendered = ->
 
-  $(".famous-container").remove()
-  div = document.createElement('div')
-  div.className += "famous-container"
 
-  document.body.appendChild(div)
-  scene = Famous.Engine.createScene 'div'
+
+
+  scene = Famous.Engine.createScene()
 
 # our top level node
   scene.addChild new App.app()
